@@ -1,4 +1,4 @@
-# lottery.aleo
+# lottery.aleo Discord: Valeracryptoshark
 
 ## Run Guide
 
